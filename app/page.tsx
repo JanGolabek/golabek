@@ -14,6 +14,7 @@ export default function Home() {
         />
       </div>
 
+
 <div className='text-center my-5'>
 <h1>Kontakt:</h1>
 <br/><br/>
